@@ -11675,10 +11675,10 @@ body {
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: #5bdbe31a;
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: #4f8c93;
 }
 .contact-section .social a:hover {
   color: rgba(255, 255, 255, 0.5);
